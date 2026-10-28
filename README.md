@@ -8,12 +8,9 @@ Estudante de **Ciência da Computação** na **UNICAP** e estagiário na **Moura
   <img src="https://skillicons.dev/icons?i=py,java,js,html,css" />
 </p>
 
-## 📊 Estatísticas
+## 📊 Linguagens mais usadas
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joaopfc12&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopfc12&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopfc12&theme=github_dark" height="180" />
 
 ## 📫 Contato
 

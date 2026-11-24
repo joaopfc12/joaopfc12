@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.gif" width="100%" />
+</p>
 # Oi, eu sou o João Felipe 👋
 
 Estudante de **Ciência da Computação** na **UNICAP** e estagiário na **Moura Dubeux**.
